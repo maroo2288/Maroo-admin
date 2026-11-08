@@ -34,5 +34,12 @@
    "type": "image/png",
    "purpose": "maskable"
   }
- ]
+ ],
+ "related_applications": [
+  {
+   "platform": "webapp",
+   "url": "https://maroo2288.github.io/Maroo-admin/manifest.webmanifest"
+  }
+ ],
+ "prefer_related_applications": false
 }
